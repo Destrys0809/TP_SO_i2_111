@@ -2,4 +2,20 @@ a.
 b.
 c.
 d.
-e.
+e. BETA: crea el repositorio y el archivo, y en su computadora, en la carpeta creada "tp_s2" abre la consola git
+y pone el siguente comando git clone https://github.com/Destrys0809/TP_SO_i2_111.git para hacer una copia de ese repositorio,
+descarga una carpeta llamada "tp_s2_111", luego en la consola realiza el comando git pull, luego crea dentro de esa
+carpeta un archivo llamado fork.txt.
+
+GAMMA : hace un fork del reposito de github de beta, descargando el repositorio, modifica el archivo agregando su nombre
+y apellido con los siguientes comandos: abre la consola git en su carpeta y copia su repositorio git clone https://github.com/floralessi/TP_SO_i2_111.git
+luego realiza un git pull, modifica el archivo con sus datos, luego en la consola : git add . luego git commit -m "mensaje"  luego git push.
+
+ALFA :hace un fork del reposito de github de beta, descargando el repositorio, modifica el archivo agregando su nombre
+y apellido con los siguientes comandos: abre la consola git en su carpeta y copia su repositorio git clone https:https://github.com/agustinbalcedo/TP_SO_i2_Equipo-111-.git
+luego realiza un git pull, modifica el archivo con sus datos, luego en la consola : git add . luego git commit -m "mensaje"  luego git push.
+
+BETA: descarga su repositorio en forma local, crea en el repositorio un arachivo llamado nuevodato.txt y en consola git pone los siguentes comandos: git add .,
+git commit -m "mensaje", git push
+
+ALFA y GAMMA: desde github actualizan el fork cliquenado en el boton ":sync fork" y luego en su respectivas carpetas con el comando git pull traen el archivo
