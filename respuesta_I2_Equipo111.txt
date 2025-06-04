@@ -1,0 +1,6 @@
+a.
+b.
+c. no, Gama no puede actualisar su Fork al estado del Fork de Alfa
+d. no, no se pierden se actualisa los datos del Fork y los cambios que hiso uno en 
+   su repocitorio se suman a la informacion que se actualiso del forck
+e.
