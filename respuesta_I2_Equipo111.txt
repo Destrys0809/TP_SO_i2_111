@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-a.
-b.
-c.
-d.
+a. para actualizar su Fork, vas a tu repositorio y usas el botón Synk Fork y le das al bono verde, y ya te actualiza el Fork
+b. no, ALfa no puede actualizar su Fork al estado del Fork de Gama
+c. no, Gama no puede actualisar su Fork al estado del Fork de Alfa
+d. no, no se pierden se actualisa los datos del Fork y los cambios que hiso uno en 
+   su repocitorio se suman a la informacion que se actualiso del forck
 e. BETA: crea el repositorio y el archivo, y en su computadora, en la carpeta creada "tp_s2" abre la consola git
 y pone el siguente comando git clone https://github.com/Destrys0809/TP_SO_i2_111.git para hacer una copia de ese repositorio,
 descarga una carpeta llamada "tp_s2_111", luego en la consola realiza el comando git pull, luego crea dentro de esa
@@ -20,11 +20,3 @@ BETA: descarga su repositorio en forma local, crea en el repositorio un arachivo
 git commit -m "mensaje", git push
 
 ALFA y GAMMA: desde github actualizan el fork cliquenado en el boton ":sync fork" y luego en su respectivas carpetas con el comando git pull traen el archivo
-=======
-a. para actualizar su Fork, vas a tu repositorio y usas el botón Synk Fork y le das al bono verde, y ya te actualiza el Fork
-b. no, ALfa no puede actualizar su Fork al estado del Fork de Gama
-c. no, Gama no puede actualisar su Fork al estado del Fork de Alfa
-d. no, no se pierden se actualisa los datos del Fork y los cambios que hiso uno en 
-   su repocitorio se suman a la informacion que se actualiso del forck
-e.
->>>>>>> upstream/main
